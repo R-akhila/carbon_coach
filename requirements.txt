@@ -1,0 +1,6 @@
+
+google-adk
+streamlit
+pandas
+plotly
+python-dotenv
